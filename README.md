@@ -13,15 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-ramos&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://as1.ftcdn.net/v2/jpg/04/97/31/24/1000_F_497312486_1BjrJqIhsVE0LOz6DCImqU7O17BjWGaq.jpg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rafa-ramos&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=rafa-ramos&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
